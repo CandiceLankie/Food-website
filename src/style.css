@@ -6,11 +6,11 @@
 }
 h1 {
   text-align: center;
-  color: green;
+  color: #e8b634;
   padding: 20px;
 }
 nav {
-  background-color: limegreen;
+  background-color: #ffe27c;
   display: grid;
   place-items: center;
 }
@@ -26,7 +26,7 @@ nav ul a {
   font-size: 18px;
 }
 nav ul a:hover {
-  background-color: green;
+  background-color: #e8b634;
   color: white;
 }
 .items {
@@ -54,7 +54,7 @@ nav ul a:hover {
   padding: 5px 30px;
   border: none;
   outline: none;
-  background-color: green;
+  background-color: #e8b634;
   color: white;
   cursor: pointer;
   border-radius: 4px;
